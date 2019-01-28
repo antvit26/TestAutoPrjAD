@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<GenericTest name="GenericTest1" storage="d:\wintec\sem 5\testing\assignment3\unittestproject1\unittestproject1\generictest1.generictest" id="71fa0f28-9ad6-4efd-a6b3-697e71b7c97a" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <Command filename="GNsdsds" workingDirectory="%TestOutputDirectory%" />
+  <SummaryXmlFile path="%TestOutputDirectory%\&lt;Enter summary file name here&gt;" />
+</GenericTest>
